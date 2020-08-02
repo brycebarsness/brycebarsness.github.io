@@ -1,0 +1,63 @@
+body { background-color:#255251;
+    font-family: arial, helvetica, sans-serif;
+    color: white;}
+
+  h1 {font-size: 35pt;
+    color: #40596e;
+margin: 10px;
+text-transform: uppercase;
+word-spacing: 0.2em; }
+
+.header {color: #80bfbe;
+background-color: white;
+border: 10px solid black ;
+padding: 10px;}
+
+#contact {color:#40596e;
+  background-color:white;
+  text-align: center;}
+h2#contact { text-align: center;}
+
+.Experience { color: #80bfbe;
+              background-color: black;
+            border: 10px solid white;
+      display: flex;
+    flex-flow: column wrap;
+    justify-content: space-between;
+margin: 20px 10px 20px 10px;
+padding:10px;}
+
+
+
+#CONCRETE { color:#80bfbe;
+padding:10px;
+margin:5px;
+line-height: 1.4em
+}
+
+#ARTS {color: #80bfbe;
+padding:10px;
+margin:5px;
+line-height: 1.4em
+}
+
+.Education {color: white;
+background-color:  #40596e;
+border: 10px solid black;
+display: flex;
+flex-direction: column;
+float: right;
+padding:10px;}
+
+#FFHS {padding: inherit;
+}
+
+#UMM {padding: inherit;}
+
+#NDSU {padding: inherit;}
+
+#MSCTC {padding:inherit;
+}
+
+.References{
+  padding: 10px;}
